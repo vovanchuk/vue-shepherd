@@ -1,5 +1,5 @@
 import Shepherd from 'shepherd.js';
-
+//test
 
 // install function executed by Vue.use()
 const install = function installVueShepherd(Vue) {
