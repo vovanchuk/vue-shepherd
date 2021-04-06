@@ -35,7 +35,7 @@
     "src"
   ],
   "dependencies": {
-    "shepherd.js": "vovanchuk/shepherd"
+    "shepherd.js": "vovanchuk/shepherd#master"
   },
   "devDependencies": {
     "@rollup/plugin-alias": "^2.2.0",
